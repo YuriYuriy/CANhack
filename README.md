@@ -1,5 +1,5 @@
 The project uses STM32CubeMX and STM32 HAL, which remain under the ST license. 
-My code is licensed under GPLv3.
+My code is licensed under GPL.
 STM32CubeMX and STM32 HAL files remain under ST license and are not included in GPL.
 
 ## License
