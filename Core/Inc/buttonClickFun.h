@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------------------------------
-//by YuriYuriy
+//(C) 2025 YuriYuri (Yuriy Golovin)
 //----------------------------------------------------------------------------------------------------
 #ifndef INC_BUTTONCLICKFUN_H_
 #define INC_BUTTONCLICKFUN_H_
@@ -23,5 +23,6 @@ bool iniCANflagKeySet();
 /*-----------------------------*/
 bool iniCANflagSet(bool flagCAN);
 #endif /* INC_BUTTONCLICKFUN_H_ */
+
 
 
