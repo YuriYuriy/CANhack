@@ -1,21 +1,6 @@
 //----------------------------------------------------------------------------------------------------
-// Program for device CANhack
-// Copyright (C) 2024 YuriYuri (Yuriy Golovin)
-//
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
-//
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with this program. If not, see <https://www.gnu.org/licenses/>.
-//---------------------------------------------------------------------------------------------------
-
+//by YuriYuriy
+//----------------------------------------------------------------------------------------------------
 #ifndef INC_INTERFACECANHACK_A_H_
 #define INC_INTERFACECANHACK_A_H_
 
@@ -49,4 +34,5 @@ void bomberTIMEnumSet(uint16_t bomberTIME);
 void dataCANnumSet(uint64_t numCANdata);
 
 #endif /* INC_INTERFACECANHACK_A_H_ */
+
 
