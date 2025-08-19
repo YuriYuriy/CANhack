@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------------------------------
-//(C) 2025 YuriYuri (Yuriy Golovin)
+// (C) 2025 YuriYuri (Yuriy Golovin)
 //----------------------------------------------------------------------------------------------------
 #ifndef INC_INTERFACECANHACK_A_H_
 #define INC_INTERFACECANHACK_A_H_
@@ -34,6 +34,7 @@ void bomberTIMEnumSet(uint16_t bomberTIME);
 void dataCANnumSet(uint64_t numCANdata);
 
 #endif /* INC_INTERFACECANHACK_A_H_ */
+
 
 
 
